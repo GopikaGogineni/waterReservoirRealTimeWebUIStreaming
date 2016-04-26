@@ -1,0 +1,1 @@
+The main idea of this project is to display the water levels of various reservoirs in real time. We represented the water levels using highcharts and D3.js. The data we need in order to represent the charts was stored in a JSON file. We have also used Google Maps for plotting the various water reservoir locations.
